@@ -1,0 +1,5 @@
+N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/NoteApp.dir
+N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/edit_cache.dir
+N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/rebuild_cache.dir
+N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/NoteApp_autogen_timestamp_deps.dir
+N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/CMakeFiles/NoteApp_autogen.dir

@@ -1,0 +1,12 @@
+# ninja log v6
+717	3382	7428406468435413	CMakeFiles/NoteApp.dir/src/main.cpp.obj	7c9967cccbb2691c
+721	4129	7428406468475306	CMakeFiles/NoteApp.dir/src/mainwindow.cpp.obj	fa0b87ff7801e279
+15	660	7428406467218921	NoteApp_autogen/timestamp	3c39b720952a94f8
+15	660	7428406467218921	NoteApp_autogen/mocs_compilation.cpp	3c39b720952a94f8
+714	3445	7428406468405509	CMakeFiles/NoteApp.dir/NoteApp_autogen/mocs_compilation.cpp.obj	d780e6c8fb86fa71
+4129	4346	7428406502555571	NoteApp.exe	c657e377cb06e24b
+15	660	7428406467218921	N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/NoteApp_autogen/timestamp	3c39b720952a94f8
+15	660	7428406467218921	N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/NoteApp_autogen/mocs_compilation.cpp	3c39b720952a94f8
+662	714	7428406468323303	NoteApp_autogen/3YJK5W5UP7/qrc_NoteApp.cpp	ee4526d5153f13de
+662	714	7428406468323303	N:/Programming_VS/Cpp/Noteapp/out/build/GCC 11.2.0 x86_64-w64-mingw32/NoteApp_autogen/3YJK5W5UP7/qrc_NoteApp.cpp	ee4526d5153f13de
+724	795	7428406468505221	CMakeFiles/NoteApp.dir/NoteApp_autogen/3YJK5W5UP7/qrc_NoteApp.cpp.obj	c86be9ead78161d2
